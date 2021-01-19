@@ -1,0 +1,7 @@
+
+[Desktop Entry]
+Name = Miles to KM Converter
+Version = 1.0
+Exec = /home/atulrpai/CodePython/SELF/JioMart_Deals/PYINST_DEMO/miles_to_km.py
+Icon = /home/atulrpai/Downloads/converter_logo.png
+Type = Application

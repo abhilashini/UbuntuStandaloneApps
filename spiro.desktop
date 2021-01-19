@@ -1,0 +1,7 @@
+
+[Desktop Entry]
+Name = Spirograph
+Version = 1.0
+Exec = /home/atulrpai/CodePython/SELF/JioMart_Deals/PYINST_DEMO/t_spirograph.py
+Icon = /home/atulrpai/Downloads/spiro_logo.png
+Type = Application
